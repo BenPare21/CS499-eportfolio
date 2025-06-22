@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Gale Reef",
+        "image": "reef1.jpg",
+        "description": "A stunning underwater paradise with crystal-clear waters and diverse marine life.",
+        "price": 1200,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 2,
+        "name": "Azure Cove",
+        "image": "reef2.jpg",
+        "description": "A hidden gem with vibrant coral reefs and a peaceful coastal atmosphere.",
+        "price": 1500,
+        "date": "2025-07-20"
+    },
+    {
+        "id": 3,
+        "name": "Sunken Paradise",
+        "image": "reef3.jpg",
+        "description": "An adventurous dive spot featuring ancient wrecks and spectacular reef formations.",
+        "price": 1000,
+        "date": "2025-05-30"
+    }
+]
