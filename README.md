@@ -5,10 +5,13 @@ Welcome to my Computer Science ePortfolio. Below you'll find a summary of my wor
 
 ## 🔗 Quick Links
 
-- [CS-320: Secure, User-Centered Software Development](./CS-320/)
-- [CS-330: 3D Graphics with OpenGL – Mug on a Table](./CS-330/)
-- [CS-465: Full-Stack Web Application for Trip Management](./CS-465/)
+## 🔗 Quick Links
+
+- [CS-320: Secure, User-Centered Software Development](https://github.com/BenPare21/CS499-eportfolio/tree/main/CS-320)
+- [CS-330: 3D Graphics with OpenGL – Mug on a Table](https://github.com/BenPare21/CS499-eportfolio/tree/main/CS-330)
+- [CS-465: Full-Stack Web Application for Trip Management](https://github.com/BenPare21/CS499-eportfolio/tree/main/CS-465)
 - [Live GitHub Pages ePortfolio Site](https://benpare21.github.io/CS499-eportfolio/)
+
 
 
 # Professional Self-Assessment
